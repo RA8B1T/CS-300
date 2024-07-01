@@ -1,0 +1,2 @@
+# CS-300
+For the projects we were tasked with creating an analysis of the run time and memory for the data structures and create code to print out a list of the courses in the CS program in alphanumeric order. While I did not make it to most of the assignments what I was capable of learning through the reading material and zybooks while at work will help me tremendously when I inevitably take this course again. Finding different videos on lectures for the material in this course has been helpful in understanding the material just by seeing it being taught in different ways. 
